@@ -2,6 +2,7 @@ name: Booking
 favicon: null
 layout_spectrum: 0.05449775047600269
 typography_spectrum: 0.8295571906492114
+title: Booking
 cta:
   domain: null
   bucket: null
