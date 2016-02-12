@@ -1,7 +1,7 @@
 name: Booking
 favicon: null
-layout_spectrum: 0.05449775047600269
-typography_spectrum: 0.8295571906492114
+layout_spectrum: 0
+typography_spectrum: 0.79464
 title: Booking
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.2739314779173583
-  lightness: 0.6770991976372898
-  saturation: 0.606006657704711
-  rhythmicContrast: 0.6780884391628206
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
